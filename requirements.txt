@@ -1,0 +1,13 @@
+# Data Manipulation
+numpy
+pandas
+scipy
+math
+# Image Processing
+Pillow
+
+# Deep Learning
+torch
+
+# Progress Bar
+tqdm
